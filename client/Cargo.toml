@@ -1,7 +1,9 @@
 [package]
-name = "client"
+name = "shared-clipboard-test-client"
 version = "0.1.0"
 edition = { workspace = true }
+authors = { workspace = true }
+license = { workspace = true }
 
 [dependencies]
 common = { path = "../common" }
